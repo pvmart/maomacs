@@ -1,0 +1,2 @@
+# maomacs
+emacs.d
